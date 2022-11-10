@@ -1,0 +1,24 @@
+.mainBlock {
+   width: 560px;
+   height: 560px;
+   margin-left: 400px;
+   margin-top: 40px;
+   border: 2px solid rgb(13, 13, 14);
+   background-color: rgb(5, 110, 247);
+   position: relative;
+}
+.block {
+   position: absolute;
+   width: 100px;
+   height: 100px;
+   background-color: rgb(253, 5, 9);
+   border-radius: 50%;
+}
+.start{
+   margin-left: 620px;
+   margin-top: 30px;
+   background-color: red;
+}
+.stop{
+   background-color: green;
+}
